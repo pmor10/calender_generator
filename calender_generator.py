@@ -132,7 +132,7 @@ def display_calender():
     """Prints messages on the screen and prints the calender"""
 
     print('\033[1m' + "Welcome to the Calendar Generator program!" + Style.RESET_ALL)
-    print('\033[1m' + "Calendar Generator since 1990" + Style.RESET_ALL)
+    print('\033[1m' + "Calendar Generator since 1900" + Style.RESET_ALL)
     
     
 
