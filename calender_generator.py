@@ -131,8 +131,8 @@ def check_valid_month(month):
 def display_calender():
     """Prints messages on the screen and prints the calender"""
 
-    print("Welcome to the Calendar Generator program!")
-    print("Calendar Generator since 1990")
+    print('\033[1m' + "Welcome to the Calendar Generator program!" + Style.RESET_ALL)
+    print('\033[1m' + "Calendar Generator since 1990" + Style.RESET_ALL)
     
     
 
